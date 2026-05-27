@@ -36,8 +36,7 @@ The dashboard supports two named organizations (`org-primary` and `org-secondary
 
 ## Screenshots
 
-> _Add screenshot here before publishing._
-
+![Anthropic Usage Dashboard](docs/screenshot.png)
 ---
 
 ## Architecture
