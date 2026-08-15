@@ -1,3 +1,5 @@
+> **📦 Archived reference implementation** — built 2025–2026 while running IT solo at an HR-tech SaaS. Kept as a portfolio piece; dependencies are frozen as of archiving (August 2026). More projects: [github.com/micahyee415](https://github.com/micahyee415).
+
 # anthropic-dashboard
 
 > A Next.js dashboard for tracking Anthropic API usage and cost across multiple organizations.
